@@ -1,0 +1,46 @@
+[
+  {
+    "letter": "c",
+    "terms": [
+      {
+        "title": "Catálogo de programas",
+        "desciption": "Informe generado del Sistema de Gestión Académico Administrativo que refleja el nivel, modalidad, denominación y estado de los programas de formación por cada centro de formación."
+      },
+      {
+        "title": "Código del programa",
+        "desciption": "Corresponde en sus primeros cuatro dígitos a la ocupación, la cual se define como “un elemento del campo ocupacional; está definida dentro de un área de desempeño y a un nivel de cualificación determinado."
+      }         
+    ]
+  }, 
+  {
+    "letter": "E",
+    "terms": [
+      {
+        "title": "Estado del programa",
+        "desciption": "Es la condición en la cual se encuentra un programa de formación el Sistema Académico Administrativo que inicia desde su análisis hasta la inactivación de este."
+      }
+    ]
+  },
+  {
+    "letter": "F",
+    "terms": [
+      {
+        "title": "Formación complementaria",
+        "desciption": "Tiene como objeto la actualización o el desarrollo de conocimientos, habilidades y desempeños de normas de competencia laboral o componentes de la misma y corresponden a demandas específicas del sector productivo y comunidad en general."
+      },
+      {
+        "title": "Formación laboral",
+        "desciption": "Tiene por objeto preparar a la persona mediante la aplicación de conocimientos teóricos y prácticos, en normas de competencia laboral, integradas a las competencias clave y transversales, relacionadas con las áreas de desempeño y perfil ocupacional para el sector productivo. (operarios, auxiliar, técnico laboral y profundizaciones técnicas)."
+      }      
+    ]
+  },
+  {
+    "letter": "S",
+    "terms": [
+      {
+        "title": "Sistema de Gestión Académico Administrativo",
+        "desciption": "Plataformas que la institución utiliza para la administración de la información educativa."
+      }
+    ]
+  }  
+]

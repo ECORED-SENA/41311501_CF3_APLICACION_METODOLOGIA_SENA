@@ -1,0 +1,26 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al Inicio",
+    "path": "index.html"
+  },  
+  {
+    "icon": "fa fa-file-text-o",
+    "slug": "introduccion",
+    "title": "1. Introducción",
+    "path": "pages/tema-1.html"
+  }, 
+  {
+    "icon": "fa fa-play-circle",
+    "slug": "etapas",
+    "title": "2. Identificar las etapas para ingreso de información del diseño",
+    "path": "pages/tema-2.html"
+  },
+  {
+    "icon": "fa fa-play-circle",
+    "slug": "registrar-informacion",
+    "title": "3. Registrar información básica del diseño",
+    "path": "pages/tema-3.html"  
+  }
+]
