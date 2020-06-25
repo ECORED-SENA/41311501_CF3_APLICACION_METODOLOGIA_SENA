@@ -1,0 +1,17 @@
+.table .thead-dark th {
+    color: #fff;
+    background-color: #3B506C;
+    border-color: #496285;
+}
+
+.table .thead-orange th {
+    color: #ffffff;
+    background-color: lighten($dark-orange,5%);
+    border-color: $orange;
+}
+
+.table .thead-gray th {
+    color: #ffffff;
+    background-color: $gray-600;
+    border-color: $gray-500;
+}
